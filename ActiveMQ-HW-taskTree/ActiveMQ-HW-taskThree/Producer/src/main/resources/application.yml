@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+spring:
+  jms:
+    pub-sub-domain: true
+    template:
+      default-destination: VirtualTopic.TaskThreeTopic
+      delivery-mode: persistent
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin
+app:
+  test-data:
+    fixed-producing-delay: 60
+    number-of-messages: 20
+    delay-between-messages: 1000
+

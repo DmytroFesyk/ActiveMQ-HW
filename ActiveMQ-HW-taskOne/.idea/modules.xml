@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQ-HW-taskOne/ActiveMQ-HW-taskOne.iml" filepath="$PROJECT_DIR$/ActiveMQ-HW-taskOne/ActiveMQ-HW-taskOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQ-HW-taskOne/Data/Data.iml" filepath="$PROJECT_DIR$/ActiveMQ-HW-taskOne/Data/Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQ-HW-taskOne/Listener/Listener.iml" filepath="$PROJECT_DIR$/ActiveMQ-HW-taskOne/Listener/Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQ-HW-taskOne/Producer/Producer.iml" filepath="$PROJECT_DIR$/ActiveMQ-HW-taskOne/Producer/Producer.iml" />
+    </modules>
+  </component>
+</project>
