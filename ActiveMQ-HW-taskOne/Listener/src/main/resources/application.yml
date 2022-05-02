@@ -7,7 +7,7 @@ spring:
   activemq:
     broker-url: tcp://localhost:61616
     user: admin
-    password:
+    password: admin
 
 listener:
   topic: TaskOneTopic
